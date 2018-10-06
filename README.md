@@ -3,5 +3,5 @@ Spring Boot web application to perform DML(insert, update and delete) commands i
 
 
 # Requirement
-STS 4.2
+STS
 MySQL 8.0
